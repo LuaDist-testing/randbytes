@@ -1,7 +1,7 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "randbytes"
-version = "0.0-1"
+version = "0.0-2"
 description = {
    summary = "Get some random bytes already.",
    detailed = [[
@@ -14,13 +14,13 @@ description = {
 }
 -- LuaDist source
 source = {
-  tag = "0.0-1",
+  tag = "0.0-2",
   url = "git://github.com/LuaDist-testing/randbytes.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/Oka-/randbytes",
---   tag = 'v0.0.1'
+--   tag = 'v0.0.2'
 -- }
 build = {
   type = "builtin",
